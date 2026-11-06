@@ -11,28 +11,12 @@ Email Me 👉 ✉️ **harshkokitkar08@gmail.com** for Collaboration / Projects 
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="30%" align="center">
-<img src="https://github.com/harshkokitkar08-lang.png" width="200" alt="Harsh"/>
-</td>
-<td>
-
-<pre>
-harsh@pune ──────────────────────────
- Role:      B.Tech CSE Student
- Uni:       Newton School of Tech + ADYPU
- Location:  Pune, Maharashtra
- Languages: Python, JavaScript, TypeScript
- Stack:     React, FastAPI, Vite, Tailwind
- Building:  Catchy AI, Portfolio Website
- Learning:  Computer Science / AI-ML
- Open to:   Web Dev / Design collabs
-</pre>
-
-</td>
-</tr>
-</table>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshkokitkar08-lang/harshkokitkar08-lang/main/dark_mode.svg">
+  <img alt="Harsh Kokitkar's GitHub Profile Card" src="https://raw.githubusercontent.com/harshkokitkar08-lang/harshkokitkar08-lang/main/light_mode.svg">
+</picture>
+</div>
 
 ---
 
@@ -90,5 +74,5 @@ harsh@pune ───────────────────────
 ## 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_harshh007_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-ID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-kokitkar-ab842a362/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshkokitkar08@gmail.com)
