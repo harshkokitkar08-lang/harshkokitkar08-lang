@@ -1,28 +1,94 @@
-# 💫 Hi 👋, I'm Harsh Kokitkar
-**A passionate Coder || Web Engineer || Student of Newton school of technology**
-
-Email Me 👉 ✉️ **harshkokitkar08@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-- 🔭 **I’m currently working on:** A stunning portfolio website
-- 🌱 **I’m currently learning:** Computer science/AI ML
-- 👯 **I’m looking to collaborate on:** Website devlopment/Design
-- 🤔 **I’m looking for help with:** Web designing 
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** harshkokitkar08@gmail.com
-- 😄 **Pronouns:** Harsh
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
-  
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_harshh007_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Harsh Kokitkar  ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshkokitkar08@gmail.com) 
-
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+# 💫 Hi 👋, I'm Harsh Kokitkar
+**Coder || Web Engineer || B.Tech CSE @ Newton School of Technology**
+
+Email Me 👉 ✉️ **harshkokitkar08@gmail.com** for Collaboration / Projects / Anything Else 😊
+
 </div>
 
+---
 
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="30%" align="center">
+<img src="https://github.com/harshkokitkar08-lang.png" width="200" alt="Harsh"/>
+</td>
+<td>
+
+<pre>
+harsh@pune ──────────────────────────
+ Role:      B.Tech CSE Student
+ Uni:       Newton School of Tech + ADYPU
+ Location:  Pune, Maharashtra
+ Languages: Python, JavaScript, TypeScript
+ Stack:     React, FastAPI, Vite, Tailwind
+ Building:  Catchy AI, Portfolio Website
+ Learning:  Computer Science / AI-ML
+ Open to:   Web Dev / Design collabs
+</pre>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Vite](https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **Catchy AI** | AI image detection platform | Python, FastAPI, React, TypeScript |
+| **Glitchy Farmer** | Story-based AI content channel | AI prompt design |
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshkokitkar08-lang/harshkokitkar08-lang/output/github-snake-dark.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/harshkokitkar08-lang/harshkokitkar08-lang/output/github-snake.svg" />
+</picture>
+</div>
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_harshh007_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-ID)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshkokitkar08@gmail.com)
